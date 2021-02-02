@@ -49,3 +49,5 @@ Juan Mencía Menéndez (UO264197)
 Thalía Cuetos Fernández (UO264545)
 
 Luis Martínez Moreno (UO258273)
+
+Adolfo Rodríguez Sánchez (UO271620)
