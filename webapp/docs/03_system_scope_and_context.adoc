@@ -25,6 +25,10 @@ Various options:
 
 === Business Context
 
+= image:LogoASW.png
+:toc: left
+:imagesdir: ./images
+
 [role="arc42help"]
 ****
 .Contents
