@@ -30,6 +30,7 @@ Various options:
 :imagesdir: ./images
 
 [role="arc42help"]
+
 ****
 .Contents
 Specification of *all* communication partners (users, IT-systems, ...) with explanations of domain specific inputs and outputs or interfaces.
